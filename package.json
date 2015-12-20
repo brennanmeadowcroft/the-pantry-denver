@@ -1,0 +1,20 @@
+{
+  "name": "commercial-kitchen-public",
+  "version": "0.0.0",
+  "description": "Public landing page for cfhero.co",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brennan Meadowcroft <brennan.meadowcroft@gmail.com> (http://brennanmeadowcroft.github.io/)",
+  "license": "ISC"
+}

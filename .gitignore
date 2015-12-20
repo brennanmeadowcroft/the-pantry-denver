@@ -1,0 +1,6 @@
+app/config/*.json
+app/config/*.js
+node_modules
+.env*
+*.gpg
+.idea/workspace.xml
