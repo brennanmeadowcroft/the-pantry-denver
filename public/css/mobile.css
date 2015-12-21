@@ -5,12 +5,25 @@
     .something {}
     
     #hero {
-      padding: 100px;
-      background-image: url('../images/hero-background-small.jpg');
+      padding: 20px;
+      padding-top: 150px;
+      padding-bottom: 100px;
+      background-image: url('../images/kitchen-cooking-interior-decor.jpg');
+    }
+
+    #hero.content {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-right: 0;
+      margin-left: 0;
     }
 
     #vision {
       padding-top: 130px;
       padding-bottom: 120px;
+    }
+
+    #service-offering {
+      display: none;
     }
 }
